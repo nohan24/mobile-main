@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518294423971",
+    "project_id": "mobilerojo-6985c",
+    "storage_bucket": "mobilerojo-6985c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518294423971:android:bc284034a0428a7e237216",
+        "android_client_info": {
+          "package_name": "rojo.projet.voiture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZM2N0OyNA4Xfjejqv86MVHecbgBt0zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

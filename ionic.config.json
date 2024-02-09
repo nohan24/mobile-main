@@ -1,0 +1,7 @@
+{
+  "name": "ProjectMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
