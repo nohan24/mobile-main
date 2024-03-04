@@ -22,7 +22,7 @@ const Annonce = ({data} : any) => {
                     
         </div>
         <div className="info">
-            <img src={"https://rest-production-e2d3.up.railway.app/images/" + data.detailAnnonce.images[0]} />
+            <img src={"https://rest-production-c243.up.railway.app/images/" + data.detailAnnonce.images[0]} />
             <div className="donne">
                 <ul>
                 <li><IonLabel>{data.detailAnnonce.annee_fabrication}</IonLabel></li>

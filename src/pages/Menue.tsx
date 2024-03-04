@@ -80,11 +80,11 @@ function Menue() {
                 <IonButtons slot="end" onClick={() => {
                 
                 logout().then(() => {
-                 
+                  localStorage.clear();
                 }).catch(err => {
 
                 }).finally(() => {
-                  localStorage.clear();
+            
                   router.push("/login");
                 })
               }}>

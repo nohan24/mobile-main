@@ -89,7 +89,7 @@ function etat(){
         {
           data.detailAnnonce.images.map((url: string, i: number) => {
             return(
-            <SwiperSlide key={i}><IonImg style={{width: '100%',height: '100%'}} src={"https://rest-production-e2d3.up.railway.app/images/" + url} /></SwiperSlide>
+            <SwiperSlide key={i}><IonImg style={{width: '100%',height: '100%'}} src={"https://rest-production-c243.up.railway.app/images/" + url} /></SwiperSlide>
             )
           })
         }
